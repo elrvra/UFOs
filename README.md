@@ -36,5 +36,12 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 
 ## Summary
-1. Address one drawback of this webpage
+1. Address one drawback of this webpage:
+
+- One drawback I see, is if you are using this siting information to inform the media, news, or deliver a story, you can only filter one specific option at a time. For example if I wanted to search for sitings in both pasadena and bonita, I would need to complete the search one at a time. 
+
 2. Address two additional recommendations for further development
+
+- One recommendation is to adjust the HTML code to create a drop-down list option area, in addition to the filter "quick" search area, which will allow the  user to select more than one option at a time from the list
+
+- Add further information to the results, by adding a column called "hyperlink" that will direct the user exactly to the article of that siting, which may hold further information the user may find valid to be informed on
