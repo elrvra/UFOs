@@ -44,4 +44,4 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 - One recommendation is to adjust the HTML code to create a drop-down list option area, in addition to the filter "quick" search area, which will allow the  user to select more than one option at a time from the list
 
-- Add further information to the results, by adding a column called "hyperlink" that will direct the user exactly to the article of that siting, which may hold further information the user may find valid to be informed on
+- Second recommendation is to add further information to the results, by adding a column called "hyperlink" that will direct the user exactly to the article of that siting, which may hold further information the user may find valid to be informed on
